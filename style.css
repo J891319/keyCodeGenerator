@@ -1,0 +1,23 @@
+div {
+  width: 50%;
+  background-color: blue;
+  border-radius: 15px;
+  margin: 0 auto;
+}
+
+body {
+  text-align: center;
+  background-color: black;
+  font-family: "mono space";
+}
+
+h1 {
+  color: white;
+}
+
+h2 {
+  color: white;
+}
+
+
+
